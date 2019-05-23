@@ -2,3 +2,4 @@ Mencoba menggunakan gitHub
 - mencoba Sign Up pada github
 - mencoba Login pada github
 - mencoba menggunakan github
+- mencoba mengubah/mengedit file di github
